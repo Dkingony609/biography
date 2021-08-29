@@ -1,0 +1,195 @@
+body {
+  background-color: black;
+  margin: auto;
+}
+
+#menu {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+
+.passport img {
+  margin: auto;
+  text-align: center;
+  border-radius: 50%;
+  margin-left: 550px;
+}
+
+header h2 {
+  color: #f7d7c8;
+  font-size: 72px;
+}
+
+.cv {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
+
+.cv #name {
+  color: #f7d7c8;
+  text-align: center;
+}
+
+#note {
+  text-align: center;
+  color: #999999;
+  line-height: 1.8;
+  font-weight: 300;
+  font-size: 15px;
+  margin: auto;
+  width: 570px;
+  text-align: justify;
+}
+
+.social-media {
+  color: white;
+  margin: auto;
+  width: 570px;
+  text-align: center;
+  padding: 30px;
+  font-size: 40px;
+}
+
+.social-media i {
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.headline {
+  color: white;
+  padding: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.headline #left {
+  text-justify: auto;
+  /* margin-right: 50px; */
+  font-size: 55px;
+  font-weight: 600;
+  color: #f7d7c8;
+  width: 700px;
+}
+
+.headline #right {
+  /* text-justify: auto; */
+  margin-top: 30px;
+  font-size: 15px;
+  width: 600px;
+  line-height: 2;
+}
+
+#chat {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.image-section {
+  margin-top: 100px;
+}
+
+#section-one {
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+  padding: 50px;
+}
+
+#section-two {
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+  padding: 50px;
+}
+
+#section-one img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50px;
+  margin-right: 40px;
+}
+
+#section-two img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50px;
+  margin-right: 40px;
+}
+
+button {
+  padding: 30px;
+  width: 20%;
+  background-color: black;
+  border: #f7d7c8 1px solid;
+  color: #f7d7c8;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin: auto 590px;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+/* .last-section {
+} */
+
+.last-section p {
+  color: #f7d7c8;
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+#number {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 2;
+  font-weight: bolder;
+  text-align: center;
+}
+
+#last-section-passport {
+  margin: auto;
+  text-align: center;
+}
+
+#last-section-passport img {
+  border-radius: 50%;
+}
+
+#small-border {
+  width: 15%;
+  height: 7px;
+  background-color: #f7d7c8;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+footer {
+  margin-top: 100px;
+  background-color: #333333;
+  text-align: center;
+  color: #ffffff;
+  height: 200px;
+}
+
+footer p {
+  margin: auto;
+  padding-top: 50px;
+  width: 570px;
+  font-size: 13px;
+}
+
+footer a {
+  color: #d7cce5;
+}
